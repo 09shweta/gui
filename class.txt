@@ -1,0 +1,6 @@
+plane
+flight
+pilot
+city
+seat
+passenger

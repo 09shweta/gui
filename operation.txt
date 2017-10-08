@@ -1,0 +1,5 @@
+plane-have_to_different_airports
+seat-identified-location
+flight-belongs_to_airline
+seat-identified_by-location
+flight-depart_from_airport

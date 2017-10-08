@@ -1,0 +1,106 @@
+(ROOT
+  (S
+    (NP (NNS Flights))
+    (VP
+      (VP (VB land))
+      (CC and)
+      (VP (VB depart)
+        (PP (IN from)
+          (NP
+            (NP (NN city) (POS 's))
+            (NN airport)))))
+    (. .)))
+(ROOT
+  (S
+    (NP
+      (NP (DT Some))
+      (PP (IN of)
+        (NP (DT the) (JJ big) (NNS cities))))
+    (VP (MD may)
+      (VP (VB have)
+        (NP
+          (QP (JJR more) (IN than) (CD one))
+          (NNS airports))))
+    (. .)))
+(ROOT
+  (S
+    (NP (DT Every) (NN flight))
+    (VP (VBZ belongs)
+      (PP (TO to)
+        (NP (JJ specific) (NN airline))))
+    (. .)))
+(ROOT
+  (S
+    (NP (DT The) (NNS planes))
+    (VP (VBP have)
+      (NP (JJ many) (NNS flights))
+      (PP (TO to)
+        (NP (JJ different) (NNS airports))))
+    (. .)))
+(ROOT
+  (S
+    (NP (DT Each) (NN plane))
+    (VP (VBZ is)
+      (VP (VBN identified)
+        (PP (IN with)
+          (NP (JJ serial) (NN number)
+            (CC and)
+            (NN model)))))
+    (. .)))
+(ROOT
+  (S
+    (VP (VB E.g.)
+      (ADJP (JJ hyperseonic)))
+    (. .)))
+(ROOT
+  (S
+    (NP (EX There))
+    (VP (VBP are)
+      (NP
+        (NP (JJ specific) (NNS pilots))
+        (PP (IN for)
+          (NP (DT each) (NN airline)))))
+    (. .)))
+(ROOT
+  (S
+    (NP (NNS Pilots))
+    (VP (VBP fly)
+      (NP (JJ many) (NNS flights)))
+    (. .)))
+(ROOT
+  (S
+    (NP (DT Each) (NN flight))
+    (VP (VBZ is)
+      (VP (VBN identified)
+        (PP (IN by)
+          (NP
+            (NP
+              (NP (NN flight) (POS 's))
+              (NN number)
+              (CC and)
+              (NN date))
+            (SBAR
+              (WHPP (IN on)
+                (WHNP (WDT which)))
+              (S
+                (NP (NN flight))
+                (VP (VBZ is)
+                  (VP (VBN scheduled)))))))))
+    (. .)))
+(ROOT
+  (S
+    (NP (DT The) (NN passenger))
+    (VP (VBZ reserves)
+      (NP
+        (NP (DT a) (NN seat))
+        (PP (IN for)
+          (NP (DT a) (NN flight)))))
+    (. .)))
+(ROOT
+  (S
+    (NP (DT The) (NN seat))
+    (VP (VBZ is)
+      (VP (VBN identified)
+        (PP (IN by)
+          (NP (DT a) (NN location)))))
+    (. .)))
